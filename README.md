@@ -210,6 +210,6 @@ $ prompt> print <DIR_PATH> [OPTION] ...
 $ prompt> help
 
 # 프로그램 종료
-$ prompt> exit$ 프롬프트> 종료
+$ prompt> exit
 
 ```
