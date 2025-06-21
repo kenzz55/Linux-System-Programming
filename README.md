@@ -118,7 +118,7 @@ $ prompt> arrange <DIR_PATH> [OPTION]
 
 ```bash
 $ make
-& ./ssu_cleanupd
+$ ./ssu_cleanupd
 # 디렉토리 등록
 $ prompt> add <DIR_PATH> [OPTION]...
 
